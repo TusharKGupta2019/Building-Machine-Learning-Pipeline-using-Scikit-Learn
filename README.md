@@ -32,7 +32,7 @@ Hyperparameter Tuning: To optimize the model's performance, I employed GridSearc
 
 
 
-This project not only solidified my technical skills but also highlighted the importance of a structured approach in machine learning. I am excited to apply these insights in future endeavors and continue my journey in data science!
+This project not only solidified my technical skills but also highlighted the importance of a structured approach in machine learning. 
 
 
 
